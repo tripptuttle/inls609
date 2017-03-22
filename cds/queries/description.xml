@@ -1,0 +1,122 @@
+<parameters>
+	<query>
+		<number>1</number>
+		<text>#combine(78 m transferred to nursing home for rehab after cabg reportedly readmitted with a small nqwmi yesterday he was noted to have a melanotic stool and then today he had approximately 9 loose bm w some melena and some frank blood just prior to transfer unclear quantity)</text>
+	</query>
+	<query>
+		<number>2</number>
+		<text>#combine(an elderly female with past medical history of hypertension severe aortic stenosis hyperlipidemia and right hip arthroplasty presents after feeling a snap of her right leg and falling to the ground no head trauma or loss of consciousness)</text>
+	</query>
+	<query>
+		<number>3</number>
+		<text>#combine(a 75f with a pmhx significant for severe pvd cad dm and ckd presented after being found down unresponsive at home she was found to be hypoglycemic to 29 with hypotension and bradycardia her hypotension and confusion improved with hydration she had a positive ua which eventually grew klebsiella she had temp 96 3 respiratory rate 22 bp 102 26 a leukocytosis to 18 and a creatinine of 6 baseline 2 pt has blood cultures positive for group a streptococcus on the day of transfer her blood pressure dropped to the 60s she was anuric throughout the day she received 80mg iv solumedrol this morning in the setting of low bps and rare eos in urine on arrival to the micu pt was awake but drowsy on ros pt denies pain lightheadedness headache neck pain sore throat recent illness or sick contacts cough shortness of breath chest discomfort heartburn abd pain n v diarrhea constipation dysuria is a poor historian regarding how long she has had a rash on her legs)</text>
+	</query>
+	<query>
+		<number>4</number>
+		<text>#combine(an 87 yo woman with h o osteoporosis multiple recent falls cad who presents from nursing home with c2 fracture the patient was in her usual state of health at her nursing home until yesterday morning when she sustained a fall when trying to get up to go to the bathroom the fall was not witnessed but the patient reportedly did not lose consciousness the patient complained of neck and rib pain she was taken to osh where she was found to have a comminuted fracture of c2 in the ed the patient s vs were t 99 1 bp 106 42 p 101 r 24 she had an ecg which showed sinus tachycardia and st depressions in v3 and v4 ct head was negative for ich)</text>
+	</query>
+	<query>
+		<number>5</number>
+		<text>#combine(an 82 man with chronic obstructive pulmonary disease status post bioprosthetic atrial valve replacement for atrial stenosis atrial fibrillation with cardioversion right nephrectomy for renal cell carcinoma colon cancer status post colectomy presents with 9 day history of productive cough fever and dyspnea)</text>
+	</query>
+	<query>
+		<number>6</number>
+		<text>#combine(a 94 year old female with hx recent pe dvt atrial fibrillation cad presents with fever and abdominal pain earlier she presented with back pain and shortness of breath she was found to have bilateral pe s and new afib and started on coumadin her hct dropped slightly requiring blood transfusion with guaic positive stools she was discharged and returned with abdominal cramping and black stools egd showed a small gastric and duodenal ulcer healing esophageal stricture no active bleeding she also had an abdominal ct demonstrating a distended gallbladder with gallstones and biliary obstruction with several cbd stones)</text>
+	</query>
+	<query>
+		<number>7</number>
+		<text>#combine(this is a 41 year old male patient with medical history of alcohol abuse cholelithiasis hypertension obesity who presented to his local hospital with hematemasis on friday evening he had several episodes of vomiting of bright and dark red material in the emergency department initial vs were t 98 6 p66 bp145 89 r16 o2 sat 98 ra he was started on a protonix gtt and octreotide gtt given his elevated liver function tests lab tests show elevated lipase pancytopenia and coagulopathy he had a right upper abdominal quadrant ultrasound which demonstrated gallstones and sludge and ascites as such given new ascites and abdominal pain he was given levofloxacin 750mg iv and flagyl 500mg iv reportedly for spontaneous bacterial peritonitis prophylaxis on the floor he reports that he had two episodes of vomiting of dark red emesis per his nurse it was about 75ml and was gastrocult positive he has right upper abdominal quadrant pain radiating to his back he also reports slow increase in abdominal girth with more acute distention and lower extremity swelling over the two days prior to admission the patient denies fever chills night sweats headache sinus tenderness rhinorrhea or congestion denied cough shortness of breath he also denied chest pain or tightness)</text>
+	</query>
+	<query>
+		<number>8</number>
+		<text>#combine(a g2p0010 26 yo f now estimated to 10 weeks pregnant with 4yr hx of iddm last menstrual period is not known but was sometime three months ago five days ago the patient began feeling achy and congested she had received a flu shot about 1 week prior she continued to feel poorly and developed hyperemesis she was seen in the ed but not admitted where she was given ivf reglan and tylenol and she was found to have a positive pregnancy test today she returned to the ed with worsening of symptoms she was admitted to the ob service and given ivf and reglan of note her labwork demonstrates a blood glucose of 160 bicarbonate of 11 beta hcg of 3373 and ketones in her urine her family noted that she was breathing rapidly and was quite somnolent she appears to be in respiratory distress)</text>
+	</query>
+	<query>
+		<number>9</number>
+		<text>#combine(this is a 24 and 2 7 weeks 678 gm male born to a 34 year old g2 p0 to 3 woman prenatal screens were o positive antibody negative hepatitis b surface antigen negative rpr nonreactive rubella immune and gbs unknown this was an ivf pregnancy notable for bleeding in the first trimester the mother presented to the hospital on the morning of delivery with premature rupture of membranes betamethasone was given approximately 18 hours prior to delivery the mother was also started on ampicillin gentamycin and magnesium sulfate mother s labor progressed despite magnesium and she developed fever and chills maximum temperature was 101 2 degrees because of progressive labor and concerns for chorioamnionitis the decision was made to deliver the infants delivery was by cesarean section the infant was intubated in the delivery room and apgars were 5 at one and 8 at five minutes examination was notable for an extreme pre term infant intubated weight was 678 gm chest x ray shows respiratory immaturity and diffuse bilateral opacities within the lungs left greater than right with increased lung volumes)</text>
+	</query>
+	<query>
+		<number>10</number>
+		<text>#combine(a 55y o f with sarcoidosis copd idiopathic cardiomyopathy with ef 40 and diastolic dysfunction varices s p tips and hypothyroidism presenting today with confusion she was brought to the ed by her husband for evaluation after he noted worsening asterixis while in the waiting room the pt became more combative and then unresponsive in the ed vs temp 97 9f hr 115 bp 122 80 r 18 o2 sat 98 2l nc she was unresponsive but able to protect her airway and so not intubated she vomited x1 and received zofran as well as 1 5 l ns labs were significant for k 5 5 bun 46 cr 2 2 up from baseline of 0 8 and ammonia of 280 stool was guaiac negative a urinalysis and cxr were done and are pending and a fast revealed hepatosplenomegaly but no intraperitoneal fluid)</text>
+	</query>
+	<query>
+		<number>11</number>
+		<text>#combine(a 80yo male with dementia and past history of cabg two caths this year patent lima totally occluded svg to rpda svg to om2 s p bms to lcx presents with increasing chest pain and nausea over the past few days the patient has history of repeated episodes of recurrent chest pain with relief with morphine pt is on asa statins imdur and heparin last month s cath showed patent bms in lcx and no new lesions according to the family the patient has increasing episodes of chest pain with minimal exertion in the last two weeks)</text>
+	</query>
+	<query>
+		<number>12</number>
+		<text>#combine(66 yo female pedestrian struck by auto unconscious and unresponsive at scene multiple fractures and complication secondary to the primary injury s p embolization of the avulsed second branch of brachial artery complicated by exp lap secondary to suspicion of abdominal compartment syndrome not much of the response after weaning the sedation with ct of the head showing extensive interparenchymal hemorrhages throughout)</text>
+	</query>
+	<query>
+		<number>13</number>
+		<text>#combine(a 43 year old woman with history of transverse myelitis leading to paraplegia depression frequent pressure ulcers presenting with chills and reporting she felt as if dying upon presentation she denied any shortness of breath nausea vomiting but did report diarrhea with two loose bowel movements per day patient reported that she had a fallout with her vna and has not had any professional wound care patient is agitated with rigors complaining of feeling cold and back pain patient rolled and found to have a stage iv decubitus ulcer on coccyx and buttocks heels admission labs significant for thrombocytosis elevated lactate and prolonged pt)</text>
+	</query>
+	<query>
+		<number>14</number>
+		<text>#combine(a 52 year old woman with chronic obstructive pulmonary disease and breast cancer who presented to an outside hospital with shortness of breath and back pain for several weeks had been seen by primary care provider for the back pain and treated with pain medications subsequently developed rash that was thought to be zoster in the last few days oxygen requirement increased and she had cough fevers and sore throat noted oxygen saturation of 79 with ambulation at home at outside hospital she was diagnosed with multi focal pneumonia in the process of obtaining a computerized tomography scan contrast infiltrated her arm with skin blistering and swelling she was treated with ceftriaxone and transferred to current hospital)</text>
+	</query>
+	<query>
+		<number>15</number>
+		<text>#combine(a 67 y o m with end stage copd on home oxygen tracheobronchomalacia s p y stent h o rul resection for squamous cell carcinoma with cyberknife treatment patient had y stent placed complicated by cough and copious secretions requiring multiple therapeutic aspirations last bronchoscopy was at osh where patient had copious secretions that were aspirated pt reports compliance with mucomyst nebs and mucinex patient reports decreaed appetitie 50 lb wt loss in 6 months decreased activity tolerance smokes 5 cig day pet scan revealed fdg avid soft tissue mass adjacent to lung resection site with some fdg avid nodes concerning for recurrence on arrival vitals were t98 6 hr86 bp106 78 o289 pt denied chest pain palpitations trauma f c n v d pt presents with worsening sob with r shoulder pain and weakness)</text>
+	</query>
+	<query>
+		<number>16</number>
+		<text>#combine(a 90 year old woman who was recently hospitalized for legionella pna and has been continuing her recovery at home with her son she had been doing fairly well for the last few days except for some waxing and waning confusion and perhaps intermittent dysarthria the son was getting ready for work at 1 15am today as per his usual routine he looked in on the patient at that time she appeared to be sleeping comfortably in bed on her back soon thereafter he heard her walking to the bathroom at 1 40am he heard a loud crash coming from the bathroom he found the patient on the floor of the bathroom making non verbal utterances and with minimal movement of the right side)</text>
+	</query>
+	<query>
+		<number>17</number>
+		<text>#combine(this is a 76 year old female with personal history of diastolic congestive heart failure atrial fibrillation on coumadin presenting with low hematocrit and shortness of breath her hematocrit dropped from 28 to 16 9 over the past 6 weeks with progressive shortness of breath worse with exertion over the past two weeks she reports orthopnea she denies fevers chills chest pain palpitaitons cough abdominal pain constipation or diahrrea melena blood in her stool dysuria or rash her electrocardiogram present no significant change from previous her guaiac was reported as being positive)</text>
+	</query>
+	<query>
+		<number>18</number>
+		<text>#combine(a 40 year old woman with a history of alcoholism complicated by delirium tremens and seizures 2 years ago polysubstance abuse ncluding iv heroin cocaine crack last use 2 years ago heroin inhalation last use 2 days ago hep c presents for voluntary admission for detox the patient would like to undergo detoxification so she can take care of her children she also complains of abdominal pain in lower quadrants radiating to the back since yesterday she says the pain has worsened since yesterday and is not related to food intake she also complains of nausea vomitting bilious but nonbloody and diarrhea no black or red stools she stopped her methadone 1 week ago in an effort to quit drug abuse she reports dyspnea on exertion orthopnea also describes weight gain labs are significant for elevated lipase)</text>
+	</query>
+	<query>
+		<number>19</number>
+		<text>#combine(78 year old female with pmhx htn dchf diabetes ckd atrial fibrillation on coumadin ischemic stroke admitted after presenting to cardiology clinic today with confusion and somnolence of note she was recently discharged after presyncope falls at that time lasix was stopped and atenolol was switched to metoprolol as there was concern that blunting of tachycardia could be contributing to falls she was discharged to rehab previously living at home per report from the er patient has had confusion at home for 3 weeks though no family accompanies her to corroborate this story and patient denies this the patient is not sure why she is in the hospital she saw her cardiologist today who referred her to the er after she appeared to be dehydrated somnolent and confused the patient denies headache blurry vision numbness tingling or weakness no cp sob worsening doe no nausea vomiting)</text>
+	</query>
+	<query>
+		<number>20</number>
+		<text>#combine(a 87 year old female nh resident with a history of chronic atrial fibrillation hypertension and hypothyroidism who presents wit abdominal pain she had been in her usual state of health until 5 days ago when she suddenly began to have abdominal pain her abdominal pain was initially intermittent lasting for a few hours at at time no clear correlation with food yesterday she noticed that her pain was much more severe and more localized to the right this was accompanied by nausea and vomitting she vomitted twice with clear liquid emesis and was sent to a hospital at the hospital she was noted to have elevated amylase lipase to 538 and 516 with elevated bili to 4 1 and ast alt to 198 115 and was given ciprofloxacin flagyl and 500cc ns and was transferred to the emergency department at the emergency department her vital signs were tm 97 9 hr 83 bp 157 92 rr 18 sat 97 ra)</text>
+	</query>
+	<query>
+		<number>21</number>
+		<text>#combine(a 63 yo man with h o biphenotypic all now day 32 from allogeneic sct who presents with one week of worsening sob and two days of a clear productive cough the patient states his sob occured when lying flat but not with activity also admitted to chest pressure which would come and go in his left chest no related to the sob sleeps with 3 pillows no change from baseline denies pnd admits to a slight increase in lower extremity edema admits to low grade fevers to the 99 s and crampy abdominal pain denies chills night sweats vomiting or diarrhea patient also has a history of cmv infection aspergillus and leggionare s disease and is on posaconazole his cxr showed an opacification of the left basilar lobe and also right upper lobe concerning for pneumonia as well as a small loculated right pleural effusion)</text>
+	</query>
+	<query>
+		<number>22</number>
+		<text>#combine(94m with cad s p 4v cabg chf cri presented with vfib arrest initial labs significant for k 2 7 ekg showed sinus rhythm hr 80 with lad prolonged pr td 0 5 to 1mm in v4 v6 echo showed mildly depressed global left ventricular function mild to moderate aortic regurgitation and mild mitral regurgitation)</text>
+	</query>
+	<query>
+		<number>23</number>
+		<text>#combine(85m dementia colon cancer and recent colectomy with primary reanastomosis p w melena hct 30 to 23 but hemodynamically stable ngl negative exam notable for tm 99 bp 128 50 hr 70 rr 16 with sat 100 on ra wd man nad chest clear jvp 8cm rr s1s2 soft abdomen well healed surgical scar no edema or cord labs notable for wbc 7k hct 24 k 4 0 cr 0 7)</text>
+	</query>
+	<query>
+		<number>24</number>
+		<text>#combine(51 year old man with multiple sclerosis quadriparesis hypertension restrictive lung disease chronic constipation and small bowel obstruction after ileostomy multiple urinary tract infections also after placement of suprapubic tube presents with small bowel obstruction and urinary tract infection admitted today as his home health aide noticed his urine output was low 75cc overnight when he usually has about 1 liter overnight over the past two weeks he has had mild earaches a sorethroat as well as some rhinorrhea he denies any abdominal pain has not sujectively noticed any change in abdominal distention in the emergency department he was noted to be severely dehydrated on exam and creatinine level was 1 4 up from 0 6)</text>
+	</query>
+	<query>
+		<number>25</number>
+		<text>#combine(a 64 yo female with with history of atrial fibrillation chronic obstructive pulmonary disease hypertension hyperlipidemia repair of an atrial septum defect which was complicated by sternal wound infection and post operative atrial fibrillation treated with amiodarone was initially admitted through the emergency department with shortness of breath and back pain and was noted to have atrial fibrillation with rapid ventricular response a computed tomography angiography demonstrated diffuse left anterior descending artery and post obstructive pneumonia concerning for malignancy for her atrial fibrillation she was started on diltiazem for the pneumonia she was treated with antibiotics she was then transferred to the floor later that same night on metoprolol 50 mg tid while on the floor she had a bronchoscopy performed which showed external compression of her left mainstem bronchus and she had a biopsy via fine needle aspiration which showed large cell carcinoma she denies chest pain shortness of breath and tachypnea she does note some diaphoresis and occasional palpitations)</text>
+	</query>
+	<query>
+		<number>26</number>
+		<text>#combine(the patient is a 79 yof w a h o cad s p rca stenting diastolic chf 1 mr htn hyperlipidemia previous smoking history and atrial fibrillation who presents for direct admission from home for progressive shortness of breath according to pt her primary complaint is not shortness of breath but cough x 1 week which has been rarely productive of white sputum she denies associated fevers chills nausea vomiting pleuritic pain weight gain or dietary indiscretion she also reports a sore throat over the past 3 days she recently underwent thoracentesis for a moderate size pleueral effusion cytology of the effusion was negative for malignant cells pt denies recent palpitations and reports that she has been compliant with all medications she admits to recent fatigue and 2 pillow orthopnea which has been present for months current etiology considerations include chf vs intrinsic pulmonary disease infiltrative vs embolic disease in order to optimize cardic function with atrial kick pt underwent cardioversion and became hypotensive with a junctional rhythm requiring intubation she was placed on dobutamine off of dobutamine cardiac monitoring demonstrated a long qtc of 700 and an atrial escape rhythm)</text>
+	</query>
+	<query>
+		<number>27</number>
+		<text>#combine(a 96 y o female found unresponsive on ground at nursing home pt was in dining room and found by staff unresponsive for 1 min after found pt cannot recollect events preceding fall but with some c o ha and some neck shoulder discomfort nchct showed 9mm l parietal sdh c spine negative imaging ct head w o contrast acute left subdural hematoma measuring 1 5 cm maximal dimensions with leftward subfalcine herniation of 8 mm downward transtentorial herniation with obliteration of the left suprasellar cistern and uncal herniation no fx destructive infiltrative lesion involving the skull base)</text>
+	</query>
+	<query>
+		<number>28</number>
+		<text>#combine(this 84 year old man with a history of coronary artery disease presents with 2 days of melena and black colored emesis stools becoming less dark but he had increased lethargy and presented to the emergency department today initial systolic blood pressure recorded in the 60s but all in 110 120s after that in the ed he had gastric lavage with coffee ground emesis that cleared with 600 cc of flushing during the lavage he had chest pressure with mild st depression v3 v5 that resolved spontaneously patient is on aspirin 81 mg tablet by mouth daily)</text>
+	</query>
+	<query>
+		<number>29</number>
+		<text>#combine(this is a 54 year old male patient with an idiopathic pulmonary fibrosis who called today with worsening dyspnea for 3 days he had been in unusual state of good health at baseline respiratory status using 4l nasal canula at rest and 6l with exertion when 3 days prior to admission he hugged his cousin who has rats for pets and also the heat came up from the basement of his house he feels that with these two events his breathing became acutely worse and he is concerned for allergen exposure he denies any sick contacts fevers chills rhinorrhea he did receive flu and pneumovax vaccines he has had a recent admission last month with progressive dyspnea on exertion the computed tomography revealed increased ground glass opacity in lower lobes superimposed on pulmonary fibrosis with elevated eosinophils peripherally 12 a bronchoalveolar lavage was also positive for eosinophils he was started on high dose steroids prednisone 60mg with plan for close outpatient follow up for eosinophilic lung disease he was discharged on 2 3l nasal canula he then represented to the emergency department for spontaneous pneumomediastinum of unclear etiology on day of current admission the patient called his pulmonologist complaining of worsening shortness of breath since saturday yesterday he was at pulmonary rehab and desaturated to the 70s on 6l with minimal exertion and he is currently on 4l nasal canula at rest no sick contacts recently he was asked to go to ed in the ed initial vs were 98 3 96 144 97 24 97 6l nc)</text>
+	</query>
+	<query>
+		<number>30</number>
+		<text>#combine(85 y o f with pmhx of htn hl h o breast ca and 3cm renal pelvis transitional cell tumor who presented for nephrectomy her post op course was complicated by agitation thought due to narcotics today she was restarted on her home meds and while on telemetry pt was noted to be bradycardic to 40s pt was triggered for sbp of 70 and hr of 40 during which she remained asymptomatic she was given 1l ivf and her hr bp trended back up to baseline however there was a second event an hour later when she sat up and became bradycardic in the 30s with associated hypotension second episode occurred with position change and again pt developped junctional rhythm in 30s)</text>
+	</query>
+</parameters>

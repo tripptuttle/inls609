@@ -1,0 +1,16 @@
+[unprocessed raw baselines]
+'#combine' on all terms
+description =  description only
+notes = notes only
+summary = summary only
+
+prefixes are:
+d = description
+n = notes
+s = summary
+
+[testing runs]
+
+d-token = nltk tokenization processed queries only
+n-token = nltk tokenization processed queries only
+s-token = nltk tokenization processed queries only

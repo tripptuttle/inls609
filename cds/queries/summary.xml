@@ -1,0 +1,122 @@
+<parameters>
+	<query>
+		<number>1</number>
+		<text>#combine(a 78 year old male presents with frequent stools and melena)</text>
+	</query>
+	<query>
+		<number>2</number>
+		<text>#combine(an elderly female with past medical history of right hip arthroplasty presents after feeling a snap of her right leg and falling to the ground)</text>
+	</query>
+	<query>
+		<number>3</number>
+		<text>#combine(a 75f found to be hypoglycemic with hypotension and bradycardia she had ua positive for klebsiella she had a leukocytosis to 18 and a creatinine of 6 pt has blood cultures positive for group a streptococcus on the day of transfer her blood pressure dropped to the 60s she was anuric throughout the day awake but drowsy this morning she had temp 96 3 respiratory rate 22 bp 102 26)</text>
+	</query>
+	<query>
+		<number>4</number>
+		<text>#combine(an 87 yo woman with h o osteoporosis dm2 dementia depression and anxiety presents s p fall with evidence of c2 fracture chest pain tachycardia tachypnea and low blood pressure)</text>
+	</query>
+	<query>
+		<number>5</number>
+		<text>#combine(an 82 man with multiple chronic conditions and previous surgeries presents with 9 day history of productive cough fever and dyspnea)</text>
+	</query>
+	<query>
+		<number>6</number>
+		<text>#combine(a 94 year old female with hx recent pe dvt atrial fibrillation cad presents with fever and abdominal pain an abdominal ct demonstrates a distended gallbladder with gallstones and biliary obstruction with several cbd stones)</text>
+	</query>
+	<query>
+		<number>7</number>
+		<text>#combine(a 41 year old male patient with medical history of alcohol abuse cholelithiasis hypertension obesity who presented to his local hospital with hematemasis abdominal pain radiating to the back and elevated lipase signs of ascites pancytopenia and coagulopathy)</text>
+	</query>
+	<query>
+		<number>8</number>
+		<text>#combine(a 26 year old diabetic woman estimated to 10 weeks pregnant presents with hyperemesis her labwork demonstrates a blood glucose of 160 bicarbonate of 11 beta hcg of 3373 and ketones in her urine)</text>
+	</query>
+	<query>
+		<number>9</number>
+		<text>#combine(infant with respiratory distress syndrome and extreme prematurity chest x ray shows diffuse bilateral opacities within the lungs with increased lung volumes)</text>
+	</query>
+	<query>
+		<number>10</number>
+		<text>#combine(a 55 year old woman with sarcoidosis presenting today with confusion and worsening asterixis in the waiting room the pt became more combative and then unresponsive ammonia level 280 on admission)</text>
+	</query>
+	<query>
+		<number>11</number>
+		<text>#combine(80 yo male with demantia and past medical history of cabg with repeated episodes of chest pain admitted for severe chest pain episode)</text>
+	</query>
+	<query>
+		<number>12</number>
+		<text>#combine(66 yo female pedestrian struck by auto unconscious and unresponsive at scene multiple fractures and head ct showing extensive interparenchymal hemorrhages)</text>
+	</query>
+	<query>
+		<number>13</number>
+		<text>#combine(a 43 year old woman with history of transverse myelitis leading to paraplegia depression frequent pressure ulcers presenting with chills agitation rigors and back pain patient has stage iv decubitus ulcers on coccyx and buttocks heels admission labs significant for thrombocytosis elevated lactate and prolonged pt)</text>
+	</query>
+	<query>
+		<number>14</number>
+		<text>#combine(a 52 year old woman with history of copd and breast cancer who presents with sob hypoxia cough fevers and sore throat for several weeks)</text>
+	</query>
+	<query>
+		<number>15</number>
+		<text>#combine(67 y o male smoker with end stage copd on home oxygen tracheobronchomalacia s p rul resection for squamous cell carcinoma y stent placement was complicated by cough and copious secretions requiring multiple therapeutic aspirations patient reports decreased appetite 50 lb wt loss in 6 months decreased activity tolerance pet scan revealed some fdg avid nodes concerning for recurrence pt presents with worsening sob with r shoulder pain and weakness)</text>
+	</query>
+	<query>
+		<number>16</number>
+		<text>#combine(a 90 year old woman who was recently hospitalized for legionella pna with confusion and dysarthria the last few days found down in the bathroom this morning making non verbal utterances and with minimal movement of the right side)</text>
+	</query>
+	<query>
+		<number>17</number>
+		<text>#combine(76 year old female with personal history of diastolic congestive heart failure atrial fibrillation on coumadin presenting with low hematocrit and dyspnea)</text>
+	</query>
+	<query>
+		<number>18</number>
+		<text>#combine(a 40 year old woman with a history of alcoholism complicated by delirium tremens and seizures 2 years ago polysubstance abuse hep c presents with abdominal pain in lower quadrants radiating to the back nausea vomitting and diarrhea labs are significant for elevated lipase)</text>
+	</query>
+	<query>
+		<number>19</number>
+		<text>#combine(78 year old female with pmhx htn dchf diabetes ckd atrial fibrillation on coumadin ischemic stroke admitted after presenting with confusion and somnolence she was recently discharged after presyncope falls patient has had confusion at home for 3 weeks the patient denies headache blurry vision numbness tingling or weakness nausea or vomiting)</text>
+	</query>
+	<query>
+		<number>20</number>
+		<text>#combine(a 87 yo female reports several days abdominal pain worse yesterday severe and more localized to the right accompanied by nausea and vomitting labs show elevated bilirubin transaminitis amylase and lipase)</text>
+	</query>
+	<query>
+		<number>21</number>
+		<text>#combine(a 63 year old male with biphenotypic all day 32 after bmt h o cmv infection aspergillus and leggionare s disease presents with acute onset of hypoxia accompanied by fever and two days of productive cough his cxr showed an opacification of the left basilar lobe and also right upper lobe concerning for pneumonia)</text>
+	</query>
+	<query>
+		<number>22</number>
+		<text>#combine(94 m with cad s p 4v cabg chf cri presented with vfib arrest)</text>
+	</query>
+	<query>
+		<number>23</number>
+		<text>#combine(85 yo m with pmh of colon ca s p resection now presenting with black stools and hct drop)</text>
+	</query>
+	<query>
+		<number>24</number>
+		<text>#combine(51 years old male with multiple sclerosis and quadriplegia who presents with small bowel obstruction and low urinary output)</text>
+	</query>
+	<query>
+		<number>25</number>
+		<text>#combine(an elderly female with history of atrial fibrillation chronic obstructive pulmonary disease hypertension hyperlipidemia and previous repair of atrial septum defect presenting with shortness of breath and atrial fibrillation resistant to medication)</text>
+	</query>
+	<query>
+		<number>26</number>
+		<text>#combine(a 79 year old female wit history of cad diastolic chf htn hyperlipidemia previous smoking history and atrial fibrillation who presents for direct admission from home for progressive shortness of breath patient denies recent palpitations and reports that she has been compliant with all medications she admits to recent fatigue and 2 pillow orthopnea which has been present for months patient underwent cardioversion and became hypotensive with a junctional rhythm requiring intubation she was placed on dobutamine off of dobutamine cardiac monitoring demonstrated a long qtc and an atrial escape rhythm)</text>
+	</query>
+	<query>
+		<number>27</number>
+		<text>#combine(a 96 y o female found unresponsive on ground at nursing home pressents with headache herniation and some neck shoulder discomfort ct head shows acute left subdural hematoma)</text>
+	</query>
+	<query>
+		<number>28</number>
+		<text>#combine(an 84 year old man with a previous history of coronary artery disease presenting with 2 days of melena and black colored emesis)</text>
+	</query>
+	<query>
+		<number>29</number>
+		<text>#combine(this is a 54 year old male patient with an idiopathic pulmonary fibrosis presenting an acute dyspnea on exertion secondary to superimposed pneumonia on patient with no pulmonary reserve appears he has been experiencing worsening dyspnea with increased o2 requirement for the last several weeks)</text>
+	</query>
+	<query>
+		<number>30</number>
+		<text>#combine(an 85 year old woman on verapamil presents with junctional heart rhythm in 30s with associated hypotension)</text>
+	</query>
+</parameters>
