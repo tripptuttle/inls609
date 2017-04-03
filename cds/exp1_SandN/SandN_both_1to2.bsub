@@ -1,5 +1,0 @@
-#BSUB -J SandN_both_1to2
-#BSUB -q day
-#BSUB -o SandN_both_1to2-%J.output
-/webdex/expir/indri/indri-5.4/runquery/IndriRunQuery /webdex/expir/ttuttle/cds/SandN_both_1to2.xml -index=/webdex/expir/index/pmc -count=1000 -trecFormat=true > /webdex/expir/ttuttle/cds/SandN_both_1to2.results
-/webdex/expir/script/trec_eval.9.0/trec_eval -q /webdex/expir/corpus/pmc/qrels.txt /webdex/expir/ttuttle/cds/cds/SandN_both_1to2.results > /webdex/expir/ttuttle/cds/SandN_both_1to2.stats
