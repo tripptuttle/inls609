@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9e0d1c8-2540-4686-a6a5-f043df0bd126" name="killdevil.unc.edu" url="http://killdevil.unc.edu">
+        <fileTransfer host="killdevil.unc.edu" port="22" rootFolder="/webdex/expir/ttuttle/cds" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

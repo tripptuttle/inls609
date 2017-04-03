@@ -14,3 +14,9 @@ s = summary
 d-token = nltk tokenization processed queries only
 n-token = nltk tokenization processed queries only
 s-token = nltk tokenization processed queries only
+
+[summary and summary combined with notes]
+SandN_summary = full text of summary
+SandN_both = full text of both, weight 2 to summary 1 to notes
+SandN_both_1to1
+SandN_both_1to2 = notes weight 2, summary weight 1

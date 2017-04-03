@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="killdevil.unc.edu">
+    <serverData>
+      <paths name="killdevil.unc.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/cds" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/docs-xml" />
+            <excludedPath path="/cds" />
+            <excludedPath path="/docs-trectext" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

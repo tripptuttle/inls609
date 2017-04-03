@@ -1,0 +1,5 @@
+#BSUB -J test
+#BSUB -q day
+#BSUB -o %J_full.output
+/webdex/expir/indri/indri-5.4/runquery/IndriRunQuery /webdex/expir/ttuttle/cds/queries/summary.xml -index=/webdex/expir/index/pmc -count=1000 -trecFormat=true > /webdex/expir/ttuttle/cds/test-runs/%J_test.results
+/webdex/expir/script/trec_eval.9.0/trec_eval -q /webdex/expir/corpus/pmc/qrels.txt /webdex/expir/ttuttle/cds/test-runs/%J_test.results > /webdex/expir/ttuttle/cds/test-runs/%J_test.stats
