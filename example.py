@@ -7,7 +7,7 @@ name = 'test1-A' # file name pattern for output files
 
 originalQueries1 = h.get_xml_text('topics2016.xml', 'topic', 'summary') # builds array of summary text
 originalQueries2 = h.get_xml_text('topics2016.xml', 'topic', 'description') # builds array of description text
-originalQueries3 = h.get_xml_text('topics2016.xml', 'topic', 'notes') # builds array of notes
+originalQueries3 = h.get_xml_text('topics2016.xml', 'topic', 'note') # builds array of notes
 
 
 # tokenize all the queries, see trechelpers.py on ways to customize it
