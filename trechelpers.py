@@ -1,10 +1,12 @@
 import math
 import enchant
 import nltk
+import stop_words
 import string
 import os
 from natsort import natsorted
 import xml.etree.ElementTree as et
+
 
 
 ## function parses XML tree, returns a dictionary object to be used by other functions
@@ -37,7 +39,6 @@ def check_spelling(dictionary, percent=0.20):
                 suggestions = d.suggest(word)
                 if suggestions:
                     numInclude = math.ceil(len(suggestions) * percent)
-                    print(suggestions[0:numInclude])
                     addlWords.append(' '.join(suggestions[0:numInclude]))
         dictionary[key] = dictionary[key] + ' ' + ' '.join(addlWords)
     return dictionary
@@ -46,8 +47,8 @@ def check_spelling(dictionary, percent=0.20):
 ## function takes a dictionary/array of queryNumber : Text pairs and runs it through the
 ## NLTK plain language tokenizer, you can change the tokenizer used, see nltk.org for details
 
-def tokenize_text(dictionary):
-    tknzr = nltk.TweetTokenizer()  # sets the tokenizer used
+def tokenize_text(dictionary, tokenizer=nltk.TweetTokenizer()):
+    tknzr = tokenizer  # sets the tokenizer used
     for key, value in dictionary.items():  # iterates through dictionary
         tokenText = tknzr.tokenize(value)  # tokenizes the text in the dictionary
         cleanText = []  # empty list for cleaned text
@@ -119,3 +120,22 @@ def generate_bsub_file(name, KDdir='', dir='', queue='day'):
     bsubFile.write(
         '\n/webdex/expir/script/trec_eval.9.0/trec_eval -q /webdex/expir/corpus/pmc/qrels.txt ' + KDdir + '/' + name + '.results >' + KDdir + '/' + name + '.stats')
     bsubFile.close()
+
+
+## function removes stopwords based on the basic english list in
+
+
+def remove_stopwords(dictionary, swords=''):
+    if not swords:
+        swords = stop_words.get_stop_words('english')
+    for key, value in dictionary.items():
+        newValue = []
+        for word in value.split():
+            if word not in swords:
+                newValue.append(word)
+        dictionary[key] = ' '.join(map(str, newValue))
+    return dictionary
+
+
+
+
