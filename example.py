@@ -1,4 +1,5 @@
 import trechelpers as h # imports the trechelpers.py file - see if for detailed comments
+import UMLSsearch
 
 dir = 'exp_test1' # local dir for output, relative to the location of this file
 KDdir = '/webdex/expir/ttuttle/cds/exp_test' # directory on KillDevil where you'll have all files
@@ -36,3 +37,4 @@ h.write_to_trec_one(name + '_option2', removedStopwordsQueries1, dir)
 # generates bsub file which has commands to run the queries, then calculate stats
 h.generate_bsub_file(name, KDdir, dir)
 
+u = UMLS()

@@ -122,10 +122,10 @@ def generate_bsub_file(name, KDdir='', dir='', queue='day'):
     bsubFile.close()
 
 
-## function removes stopwords based on the basic english list in
+## function removes stopwords based on the basic english list in the stop_words module
+## optionally pass a python list of different stopwords (example, a list of non medical terms)
 
-
-def remove_stopwords(dictionary, swords=''):
+def remove_stopwords(dictionary, swords='None'):
     if not swords:
         swords = stop_words.get_stop_words('english')
     for key, value in dictionary.items():
