@@ -5,8 +5,8 @@ import requests
 from pyquery import PyQuery as pq
 
 class UMLS:
-    def __init__(self, apikey='021fb6e5-0e1c-443d-8ec0-0b697140042c'):
-        self.apikey = apikey
+    def __init__(self):
+        self.apikey = ASKME
         self.service = 'http://umlsks.nlm.nih.gov'
         self.auth_endpoint = '/cas/v1/api-key'
         self.authURI = "https://utslogin.nlm.nih.gov"
