@@ -1,12 +1,10 @@
 import json
 import requests
-from Authentication import *
-import requests
 from pyquery import PyQuery as pq
 
 class UMLS:
-    def __init__(self):
-        self.apikey = ASKME
+    def __init__(self, apikey):
+        self.apikey = apikey
         self.service = 'http://umlsks.nlm.nih.gov'
         self.auth_endpoint = '/cas/v1/api-key'
         self.authURI = "https://utslogin.nlm.nih.gov"
@@ -32,7 +30,7 @@ class UMLS:
     def search(self, words, format='l'):
         ticket = self.getst(self.tgt)
         print(ticket)
-        query = {'string': words, 'ticket': ticket}
+        query = {'string': words, 'ticket': ticket, 'pageSize': 100}
         uri = 'https://uts-ws.nlm.nih.gov'
         content_endpoint = '/rest/search/current'
         r = requests.get(uri + content_endpoint, params=query)
@@ -42,9 +40,11 @@ class UMLS:
         jsonData = items['result']
         if format == 'l':
             termList = []
+            numTerms = 0
             for result in jsonData['results']:
                 termList.append(result['name'])
-            print('Terms returned: ')
+                numTerms += 1
+            print('Terms returned: ' + str(numTerms) + '\n')
             print(termList)
             return termList
         if format == 'j':
@@ -73,9 +73,9 @@ class UMLS:
                     NameError
 
 # creates a UMLS object and gets a ticket granting ticket from the API authentication server
-u = UMLS()
+u = UMLS(<APIKEY_GOES_HERE)
 
 # performs a search of UMLS, optional parameter determines format of result.
-resultsJSON = u.search('heart attack', 'j') #returns JSON object of full results and metadata
-resultsList = u.search('heart attack', 'l')  #returns list of only the terms to add to queries, default if no param passed
-u.search('heart attack', 'c') #outputs data into the console
+#resultsJSON = u.search('edema', 'j') #returns JSON object of full results and metadata
+resultsList = u.search('heart', 'l')  #returns list of only the terms to add to queries, default if no param passed
+#u.search('edema', 'c') #outputs data into the console
